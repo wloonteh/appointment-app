@@ -1,0 +1,12 @@
+.DS_Store
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+
+
+.terraform/
+
+*.zip
